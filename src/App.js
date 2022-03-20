@@ -1,12 +1,12 @@
 import { FaLinkedin } from 'react-icons/fa'
 import { FaGithub } from 'react-icons/fa'
 import { MdEmail } from 'react-icons/md'
-import ParticleBackground from './ParticleBackground';
+import ParticleBackground from './ParticleBackground'
 
 function App() {
   return (
     <div>
-      <ParticleBackground />
+      <ParticleBackground />  
       <h3><span class="wave"> 👋</span> Nice to meet you, I'm Vansh</h3>
       <article>I'm a Vancouver based student interested in STEM and grinding to make it big in tech.</article>          
       <h4>what I'm currently doing: </h4>      
