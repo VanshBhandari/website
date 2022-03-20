@@ -6,7 +6,9 @@ body {
 	margin-left: 30%;
 	margin-right: 30%;
 	margin-top: 5%;
-	margin-bottom: 10%
+	margin-bottom: 10%;
+  background-color: black;
+  color: azure;
 }
 
 a {
