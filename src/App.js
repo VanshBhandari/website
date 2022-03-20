@@ -6,7 +6,7 @@ import ParticleBackground from './ParticleBackground'
 function App() {
   return (
     <div>
-      <ParticleBackground />  
+      <ParticleBackground /> 
       <h3><span class="wave"> 👋</span> Nice to meet you, I'm Vansh</h3>
       <article>I'm a Vancouver based student interested in STEM and grinding to make it big in tech.</article>          
       <h4>what I'm currently doing: </h4>      
@@ -22,6 +22,7 @@ function App() {
       <p>I enjoy debating, reading about tech and playing video games, guitar and soccer. I'm also trying to learn how to use chopsticks. (I have poked myself in the eye thrice!)</p>          
       
       <p><a href="https://www.linkedin.com/in/vanshbhandari/" target="_blank"><FaLinkedin size={30} /></a>   <a href = "mailto: vbhandari2005@gmail.com"><MdEmail size={30}/></a>   <a href = "https://github.com/VanshBhandari"target="_blank"><FaGithub size={30}/></a></p>  
+      
     </div>
   );
 }
