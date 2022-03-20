@@ -18,10 +18,12 @@ a {
 a:hover {
 	text-decoration: underline;
 }
+
 a:active {
-	color: black;
+	color: azure;
 	text-decoration: underline;
 }
+
 .wave {
   animation-name: wave-animation;  
   animation-duration: 2.5s;        
