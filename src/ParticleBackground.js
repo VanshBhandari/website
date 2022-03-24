@@ -6,7 +6,7 @@ export default function ParticleBackground() {
         <Particles params={{
             particles: {
               number: {
-                value: 100,
+                value: 75,
                 density: {
                   enable: true,
                   value_area: 800
