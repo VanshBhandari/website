@@ -13,6 +13,7 @@ function App() {
       <p>- I regularly attend school like the good boy I am. </p>
       <p>- I'm a co-lead at my school's <a href="https://wghack.club/" target="_blank">Hack Club</a>. Our aim is to increase the number of students interested in pursuing coding by running weekly workshops and making them aware about the opportunities in the field. </p>
       <p>- My team and I are working on <a href="https://wghackclub.notion.site/WGHC-Junior-Coders-Camp-Introduction-c3a122693bd949bcb3423e81fad971cd" target="_blank">Junior Coders Camp</a>. We run week long workshops and teach coding to elementary school students in both Canada and India. </p>
+      <p>- I'm building <a href="https://github.com/VanshBhandari/Viridi" target="_blank">Viridi</a>. We won "Most Launchable Hack" at <a href="https://winhacks-2022.devpost.com/" target="_blank">WinHacks</a> competing against roughly 500 college and high school students! </p>
       <p>- I'm a partnership coordinator at <a href="https://www.hackpolicy.co/" target="_blank">Hack+Policy</a>.</p>
       <p>- I'm an executive at <a href="https://youandiorg.com/" target="_blank">You and I</a>. I manage their website and help
         them tackle tech related problems. </p>
