@@ -7,12 +7,12 @@ body {
 	margin-right: 30%;
 	margin-top: 5%;
 	margin-bottom: 10%;
-  background-color: black;
-  color: azure;
+  background-color: #f0efeb;
+  color: #000;
 }
 
 a {
-	color: #22C7C1;
+	color: #cb997e;
 	text-decoration: none;
   z-index: 99999;
 }
@@ -21,7 +21,7 @@ a:hover {
 }
 
 a:active {
-	color: azure;
+	color: #ddbea9;
 	text-decoration: underline;
 }
 
