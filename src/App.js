@@ -8,7 +8,7 @@ function App() {
     <div>
       <ParticleBackground /> 
       <h3><span class="wave"> 👋</span> Nice to meet you, I'm Vansh</h3>
-      <article>I'm a Vancouver based student interested in STEM and grinding to make it big in tech.</article>          
+      <article>I'm a 16 year old Vancouver based student and tech enthusiast. You could consider me as another tryhard asian grinding to make it big in tech.</article>          
       <h4>what I'm currently doing: </h4>      
       <p>- I regularly attend school like the good boy I am. </p>
       <p>- I'm a co-lead at my school's <a href="https://wghack.club/" target="_blank">Hack Club</a>. Our aim is to increase the number of students interested in pursuing coding by running weekly workshops and making them aware about the opportunities in the field. </p>
