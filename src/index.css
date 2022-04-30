@@ -58,7 +58,7 @@ html {
   align-items: center;
 }
 
-.scroll {
+.scroll-down {
   font-weight: 600;
   font-size: 30px;
   display: flex;
@@ -76,7 +76,6 @@ html {
     justify-content: center;
     align-items: center;
 }
-
 
 .wave {
   animation-name: wave-animation;  

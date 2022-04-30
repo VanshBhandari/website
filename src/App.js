@@ -18,9 +18,11 @@ function App() {
       <div class = "links">
       <p><a href="https://www.linkedin.com/in/vanshbhandari/" target="_blank"><FaLinkedin size={35} /></a>   <a href = "mailto: vbhandari2005@gmail.com"><MdEmail size={35}/></a>   <a href = "https://github.com/VanshBhandari"target="_blank"><FaGithub size={35}/></a></p>  
       </div>
-      <div class = "scroll">
-        <a href='#section-2'></a>
+      <div class = "scroll-down">
+        <a href='#section-2'><FaChevronDown size={35} /></a>
       </div>
+      <div class = "container-2" id = "section-2">    
+      </div> 
     </div>
   );
 }
