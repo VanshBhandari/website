@@ -6,14 +6,14 @@ export default function ParticleBackground() {
         <Particles params={{
             particles: {
               number: {
-                value: 50,
+                value: 40,
                 density: {
                   enable: true,
                   value_area: 800
                 }
               },
               color: {
-                value: "#cb997e"
+                value: "#ef9273"
               },
               shape: {
                 type: "circle",

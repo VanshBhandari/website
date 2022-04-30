@@ -1,18 +1,15 @@
 body {
-	font-family: 'Nunito', sans-serif;
+	font-family: 'Inter', sans-serif;
 	font-style: Regular;
 	font-size: 20px;
-	text-align: left;
-	margin-left: 30%;
-	margin-right: 30%;
-	margin-top: 5%;
-	margin-bottom: 10%;
-  background-color: #f0efeb;
-  color: #393d3f;
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+  color: #0d0d0d;
 }
 
 a {
-	color: #cb997e;
+	color: #ef9273;
 	text-decoration: none;
   z-index: 99999;
 }
@@ -21,9 +18,42 @@ a:hover {
 }
 
 a:active {
-	color: #ddbea9;
+	color: #0d0d0d;
 	text-decoration: underline;
 }
+
+.container {
+  height: 75vh;
+  width: 100%;
+  font-weight: 700;
+  font-size: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.subheader {
+  font-weight: 600;
+  font-size: 30px;
+  margin-top: -14%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.name {
+  color: #ef9273;
+  margin-left: 0.5rem;
+}
+
+.links {
+  font-weight: 600;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 
 .wave {
   animation-name: wave-animation;  
