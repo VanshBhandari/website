@@ -4,8 +4,8 @@ body {
 	font-size: 20px;
   margin: 0;
   padding: 0;
-  background-color: #fff;
-  color: #0d0d0d;
+  background-color: #0d0d0d;
+  color: #fff;
 }
 
 a {
@@ -18,7 +18,7 @@ a:hover {
 }
 
 a:active {
-	color: #0d0d0d;
+	color: #fff;
 	text-decoration: underline;
 }
 
@@ -58,23 +58,14 @@ html {
   align-items: center;
 }
 
-.scroll-down {
+.toggle {
   font-weight: 600;
   font-size: 30px;
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 13%;
-}
-
-.container-2{
-    height: 100vh;
-    width: 100%;
-    font-weight: 700;
-    font-size: 60px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  margin-top: 11%;
+  color: #ef9273;
 }
 
 .wave {
